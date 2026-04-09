@@ -25,11 +25,17 @@ The pipeline simulates a production-style ML workflow where structured data is c
 
 ml-data-processing-workflow/
 ├── data_loader.py
+
 ├── preprocessing.py
+
 ├── model_training.py
+
 ├── evaluation.py
+
 ├── main_pipeline.py
+
 ├── sample_data/
+
 └── output/
 
 ## How to Run
