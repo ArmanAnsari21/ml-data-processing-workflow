@@ -24,6 +24,7 @@ The pipeline simulates a production-style ML workflow where structured data is c
 ## Project Structure
 
 ml-data-processing-workflow/
+
 ├── data_loader.py
 
 ├── preprocessing.py
